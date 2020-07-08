@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'WFDA-Angular-Service-Router';
+  title = 'Angular-Service-Router';
 }
