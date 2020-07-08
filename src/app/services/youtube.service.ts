@@ -14,8 +14,8 @@ export class YoutubeService {
     {id: 'YlDKXh5T7oc', song: 'Quang Lê - Xuân Này Con Về Mẹ Ở Đâu?'},
     {id: 'WGL48v-yTy4', song: 'Quang Lê - Cay Đắng Bờ Môi'},
     {id: 'zeZKyTiBiSQ', song: 'Quang Lê - Đập Vỡ Cây Đàn (Hoa Linh Bảo)'},
-    // {id: 'utj0ukyAXjk', song: 'Quang Lê - Sương Trắng Miền Quê Ngoại'},
-    // {id: 'utj0ukyAXjk', song: 'Quang Lê - Sương Trắng Miền Quê Ngoại'},
+    {id: 'CFLZbqo3BCg', song: 'Quang Lê _ Thương về miền trung và những ca khúc bất hủ'},
+    {id: 'Ekp0yF_NkPc', song: 'Sương Trắng Miền Quê Ngoại - Quang Lê'},
     // {id: 'utj0ukyAXjk', song: 'Quang Lê - Sương Trắng Miền Quê Ngoại'}
   ];
 
